@@ -1,0 +1,13 @@
+Package: TrenaProjectMouseTCEx
+Title:  TrenaProject MM10 cell exhaustion studies
+Date: 2019-07-24
+Version: 1.0.0
+Author: Paul Shannon
+Maintainer: Paul Shannon <pshannon@systemsbiology.org>
+Description: TrenaProject support for Mmusculus mm10
+Imports: methods
+Depends: R (>= 3.5.0), TrenaProject, TrenaProjectMM10
+License: Apache 2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
